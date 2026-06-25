@@ -1,4 +1,4 @@
-# RE-Vault
+# Property Database Template Vault
 
 A Real Estate Template Vault application for managing and quickly sending out real estate communication templates.
 

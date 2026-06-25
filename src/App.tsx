@@ -569,7 +569,7 @@ export default function App() {
             <div className="w-10 h-10 bg-indigo-600 rounded-lg flex items-center justify-center">
               <svg className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 6h16M4 10h16M4 14h16M4 18h16"/></svg>
             </div>
-            <h1 className="text-xl font-bold tracking-tight text-slate-800">RE-Vault <span className="text-sm font-normal text-slate-400 ml-2">v1.4</span></h1>
+            <h1 className="text-xl font-bold tracking-tight text-slate-800">Property Database Template Vault <span className="text-sm font-normal text-slate-400 ml-2">v1.4</span></h1>
           </div>
           <div className="hidden md:flex items-center space-x-4">
             <div className="text-xs font-bold text-slate-400 bg-slate-100 px-2 py-1 rounded">{templates.length} TEMPLATES</div>
